@@ -15,13 +15,12 @@
 A continuación se adjuntan las capturas de pantalla de la ejecución del `programa_base.asm` en MARS:
 
 - **MIPS X-Ray**.
-> [![alt text](image-1.png)]
+> [![alt text](image-2.png)]
 - **Instruction Counter**.
 > [![alt text](image-4.png)]
 - **Instruction Statistics**.
 ![alt text](image-5.png)
 
-> [Inserte aquí las capturas de pantalla]
 
 ### 1.2. Identificación de Riesgos (Hazards)
 
